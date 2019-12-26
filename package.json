@@ -1,0 +1,32 @@
+{
+  "name": "comfycocktails",
+  "version": "1.0.0",
+  "description": "Drinks to keep you warm and comfy!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/instafluff/ComfyCocktails.git"
+  },
+  "keywords": [
+    "drinks",
+    "comfy",
+    "cocktails",
+    "recipe",
+    "yummy",
+    "yum",
+    "drink"
+  ],
+  "author": "Instafluff",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/instafluff/ComfyCocktails/issues"
+  },
+  "homepage": "https://github.com/instafluff/ComfyCocktails#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "webwebweb": "^1.1.8"
+  }
+}
